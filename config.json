@@ -1,0 +1,11 @@
+{
+    "glove_path": "/home/matin/Workspace/Datasets-and-Models/GloVe/glove.6B.50d.txt",
+    "dataset_name": "quora",
+    "data_length": 30000,
+    "maximum_length_sentence": 100,
+    "test_data_size": 0.1,
+    "lstm_units": 20,
+    "dropout": 0.2,
+    "epochs": 20,
+    "batch_size": 16
+}
